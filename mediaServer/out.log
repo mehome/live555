@@ -1,0 +1,5 @@
+[DynamicRTSPServer][DEBUG][2018-01-20 11:24:40]dynamicrtspserver.cpp:DynamicRTSPServer::createNew:33: Create DynamicRTSPServer, port=10754
+[RTSPServer][DEBUG][2018-01-20 11:24:40]rtspserver.cpp:RTSPServer::rtspURLPrefix:109: Get RTSP Prefix URL: rtsp://172.16.5.45/
+[RTSPServer][DEBUG][2018-01-20 11:24:40]rtspserver.cpp:RTSPServer::setUpTunnelingOverHTTP:124: Set Tunneling Over HTTP, port=20480
+[RTSPServer][DEBUG][2018-01-20 11:24:40]rtspserver.cpp:RTSPServer::setUpTunnelingOverHTTP:124: Set Tunneling Over HTTP, port=16415
+[DynamicRTSPServer][DEBUG][2018-01-20 11:24:53]dynamicrtspserver.cpp:DynamicRTSPServer::createNew:33: Create DynamicRTSPServer, port=10754
